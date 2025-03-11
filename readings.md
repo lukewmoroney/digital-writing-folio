@@ -1,6 +1,10 @@
 # Readings
 ## Week 1
 ### Core texts
+1. ["Decolonize" E-Literature? On Weeding the E-Lit Garden](https://electronicbookreview.com/essay/decolonize-e-literature-on-weeding-the-e-lit-garden/) by Kathi Inman Berens
+2. [Electronic Literature: What is it?](https://eliterature.org/pad/elp.html) by N. Katherine Hayles
+3. [The Origins of Electronic Literature: An Overview](https://www.bloomsburycollections.com/monograph-detail?docid=b-9781501363474&tocid=b-9781501363474-chapter1) by Dene Grigar & James O'Sullivan
+4. [Living Books](https://directory.doabooks.org/handle/20.500.12854/78623) by Janneke Adema
 
 ### Digital texts
 1. [Taroko Gorge](https://collection.eliterature.org/3/work.html?work=taroko-gorge) by Nick Monfort
