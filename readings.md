@@ -20,5 +20,6 @@
 
 # Week 2
 ### Core texts
-1. [Enlightening Interactive Fiction: Andrew Plotkin’s Shade](https://electronicbookreview.com/essay/enlightening-interactive-fiction-andrew-plotkins-shade/) by Jeremy Douglas
-2. 
+1. [Digital poesis impulse: A methodology of creative coding with GPT as co-pilot]() by Jenny Hedley (.pdf)
+2. [Enlightening Interactive Fiction: Andrew Plotkin’s Shade](https://electronicbookreview.com/essay/enlightening-interactive-fiction-andrew-plotkins-shade/) by Jeremy Douglas
+3. 
