@@ -20,6 +20,7 @@
 
 # Week 2
 ### Core texts
-1. [Digital poesis impulse: A methodology of creative coding with GPT as co-pilot]() by Jenny Hedley (.pdf)
+1. [Digital poesis impulse](https://rmit.primo.exlibrisgroup.com/permalink/61RMIT_INST/4t5l5f/cdi_crossref_primary_10_52086_001c_116921) by Jenny Hedley (pdf)
 2. [Enlightening Interactive Fiction: Andrew Plotkin’s Shade](https://electronicbookreview.com/essay/enlightening-interactive-fiction-andrew-plotkins-shade/) by Jeremy Douglas
-3. 
+3. [Kissing the Steak](https://ebookcentral.proquest.com/lib/rmit/reader.action?docID=601923&ppg=76) by Christopher T. Funkhouser (ejournal)
+4. [Oulipo : a primer of potential literature](http://rmit.alma.exlibrisgroup.com/discovery/delivery/61RMIT_INST:RMITU/12268640080001341?lang=en&viewerServiceCode=DigitalViewer) by Warren F Motte Jr (ejournal)
