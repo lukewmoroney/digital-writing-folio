@@ -17,3 +17,8 @@
 2. [Vol 2 (February 2011)](https://collection.eliterature.org/2/)
 3. [Vol 3 (February 2016)](https://collection.eliterature.org/3/)
 4. [Vol 4 (June 2022)](https://collection.eliterature.org/4/)
+
+# Week 2
+### Core texts
+1. [Enlightening Interactive Fiction: Andrew Plotkin’s Shade](https://electronicbookreview.com/essay/enlightening-interactive-fiction-andrew-plotkins-shade/) by Jeremy Douglas
+2. 
