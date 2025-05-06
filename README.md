@@ -1,1 +1,4 @@
-# digital-writing-folio
+# Digital Writing Folio
+
+- [Readings](readings.md)
+- [Exercises](exercises.md)
