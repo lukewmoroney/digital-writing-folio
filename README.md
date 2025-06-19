@@ -6,6 +6,7 @@ Luke Moroney is a poetry and short-fiction writer living in Naarm (Melbourne), A
 ## Contents
 - [Readings](readings.md)
 - [Exercises](exercises.md)
+- [Twine proof](proof.html)
 
 ## Links
 - [Author-Website](https://lukewmoroney.github.io/lukewmoroney/)
@@ -13,6 +14,7 @@ Luke Moroney is a poetry and short-fiction writer living in Naarm (Melbourne), A
 - [Coding-Playground](https://lukewmoroney.github.io/coding-playground/)
 - [Dadaist Poem](https://lukewmoroney.github.io/Frost-dadaist-poem/)
 - [Creative work documentation](https://miro.com/app/board/uXjVIH2yaBs=/)
+- [Github pages](https://github.com/LukeWMoroney)
 
 ## 500-word reflection
 My experience practicing digital literature was limited at the beginning of this course. It was daunting transitioning from a primarily analogue methodology to a digital one. Yet what drew me in, and what still draws me in, are the possibilities for reader-writer dialogues in the e-literature tradition. In programs like the Blackout Poetry Tool (2020) by Jazer Chand for example, this focus on interactivity extends also to the software itself. Chand’s intention to dismantle dichotomic thinking inspired the driving themes of my final creative work. Throughout the development of Insomnomania I wanted the structure to reflect anti-binary principles. These principles influenced the surrealism of the story, yet also the choices offered to the user as they moved from two-option passages to three or one. 
